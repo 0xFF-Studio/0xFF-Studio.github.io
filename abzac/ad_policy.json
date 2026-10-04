@@ -1,0 +1,20 @@
+{
+  "nativeFirst": 4,
+  "nativeEvery": 12,
+  "newUserDays": 3,
+  "minBookOpens": 5,
+  "minSessionSeconds": 180,
+  "interstitialGapMinutes": 12,
+  "fullscreenPerDay": 4,
+  "appOpenMinDays": 3,
+  "appOpenBackgroundHours": 4,
+  "appOpenGapHours": 4,
+  "appOpenWaitSeconds": 3,
+  "rewardHours": 24,
+  "rewardOfferEveryDays": 3,
+  "blockerFailStreak": 5,
+  "blockerHintEveryDays": 4,
+  "purchaseOfflineDays": 14,
+  "purchaseRecheckHours": 24,
+  "clockBackMinutes": 10
+}
